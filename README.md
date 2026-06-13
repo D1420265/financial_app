@@ -43,10 +43,6 @@
 
 ### APP 使用流程與原型展示 (UX/UI Flow)
 
-這是一套免程式碼的原型畫面設計，可使用 Figma 或 Glide 視覺化呈現：
-這裡已將整份專題海報企劃整理為標準的 **Markdown 原始碼格式**。
-
-你可以直接複製下方區塊內的文字，貼到任何支援 Markdown 的編輯器（如 Notion、HackMD、Obsidian 或 GitHub）中，就能直接輸出成排版精美、結構清晰的報告與海報大綱。
 
 ```markdown
 # 專題成果海報：【富步調 FinPace】設計藍圖與內文架構
